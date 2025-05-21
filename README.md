@@ -50,6 +50,6 @@ File Output: Cleaned data saved in |-separated .txt.gz format.
 💾 File Size: ~206 MB
 
 # 📁 Output Files
-cleaned_data_output.txt.gz  (quite large of over 200GB)
+cleaned_data_output.txt.gz  (quite large of over 200MB)
 
 schema.yaml
